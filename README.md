@@ -1,4 +1,4 @@
-# Deep-Learning-Study-Notes
+# Deep Learning Study Notes
 
 A collection of Deep Learning LaTeX [notes](https://github.com/albertpumarola/Deep-Learning-Study-Notes/blob/master/deepLearning_notes.pdf) of the [CS231n](http://cs231n.stanford.edu/index.html) course, the [Deep Learning](http://www.deeplearningbook.org/) book and some other random sources. 
 
