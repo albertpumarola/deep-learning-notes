@@ -1,7 +1,7 @@
 #!/bin/bash    
 cd latex
 pdflatex main.tex
-mv main.pdf ../full_document.pdf
+mv main.pdf ../FULL_DOCUMENT.pdf
 extension='.pdf'
 for file in Chapters/*.tex; 
 do
