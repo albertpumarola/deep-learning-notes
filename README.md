@@ -1,6 +1,6 @@
 # Deep-Learning-Study-Notes
 
-A collection of Deep Learning LaTeX [notes](https://github.com/albertpumarola/Deep-Learning-Study-Notes/blob/master/deepLearning_notes.pdf) of the [CS231n](http://cs231n.stanford.edu/index.html) course and the [Deep Learning](http://www.deeplearningbook.org/) book. 
+A collection of Deep Learning LaTeX [notes](https://github.com/albertpumarola/Deep-Learning-Study-Notes/blob/master/deepLearning_notes.pdf) of the [CS231n](http://cs231n.stanford.edu/index.html) course, the [Deep Learning](http://www.deeplearningbook.org/) book and some other random sources. 
 
 All credits go to **L. Fei-Fei, A. Karpathy, J.Johnson** teachers of the CS231n course. Thank you for this amazing course!!
 
@@ -57,4 +57,8 @@ If you chose individidual chapters here is the list (are you sure you do not pre
 More than happy to accept contributions
 
 ### Acknowledgements & Credits
-All credits go to L. Fei-Fei, A. Karpathy, J.Johnson teachers of the CS231n course. Thank you for this amazing course!!
+All credits go to **L. Fei-Fei, A. Karpathy, J.Johnson teachers** of the CS231n course. Thank you for this amazing course!!
+
+### Some Keywords
+deep dearning notes, CS231n notes, convolutional neural networks, ConvNets, CNN, RNN, LSTM, recurrent neural networks, R-CNN, YOLO, GAN
+
