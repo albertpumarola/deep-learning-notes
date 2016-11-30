@@ -112,7 +112,7 @@ $f(x) = \max(w_1^Tx+b_1,w_2^Tx+b_2)$
 
 \section*{Conclusion}
 \begin{itemize}
-\item \textbf{Use ReLU} but be careful with your learning rates. So for example a 3-layer neural network will look like this:
+\item \textbf{Use ReLU} but be careful with your learning rates. So for example a 3-layer neural network will look like this: $f(x) = W_3 \text{max} (0,W_2 \text{max} (0, W_1x))$
 \item Try out Leaky ReLU/Maxout/ELU
 \item Try out tanh but don't expect much
 \item Don't use sigmoid
