@@ -55,9 +55,6 @@ If you chose individidual chapters here is the list (are you sure you do not pre
 ### Contributions
 More than happy to accept contributions
 
-### Some Keywords
-deep learning notes, CS231n notes, convolutional neural networks, ConvNets, CNN, RNN, LSTM, recurrent neural networks, R-CNN, YOLO, GAN
-
 ### Acknowledgements & Credits
 All credits go to **L. Fei-Fei, A. Karpathy, J.Johnson** teachers of the CS231n course. Thank you for this amazing course!!
 
