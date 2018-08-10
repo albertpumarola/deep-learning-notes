@@ -1,14 +1,18 @@
 # Deep Learning Study Notes
+### [[Sutdy Notes PDF]](https://github.com/albertpumarola/Deep-Learning-Study-Notes/blob/master/FULL_DOCUMENT.pdf)
+My Deep Learning study notes.
 
-A collection of my Deep Learning LaTeX [study notes](https://github.com/albertpumarola/Deep-Learning-Study-Notes/blob/master/FULL_DOCUMENT.pdf) of the [CS231n](http://cs231n.stanford.edu/index.html) course, the [Deep Learning](http://www.deeplearningbook.org/) book and some other random sources. 
+Sources:
+* [CS231n](http://cs231n.stanford.edu/index.html) course (main)
+* the [Deep Learning](http://www.deeplearningbook.org/) book 
+* some other random sources. 
 
-All credits go to **L. Fei-Fei, A. Karpathy, J.Johnson** teachers of the CS231n course. Thank you for this amazing course!!
+All credits go to L. Fei-Fei, A. Karpathy, J.Johnson teachers of the CS231n course. Thank you for this amazing course!!
 
-### Structure
-Two options to chose from:
-* [FULL DOCUMENT](https://github.com/albertpumarola/Deep-Learning-Study-Notes/blob/master/FULL_DOCUMENT.pdf)
-* Individual chapters
+### Full Document
+Full study notes [pdf](https://github.com/albertpumarola/Deep-Learning-Study-Notes/blob/master/FULL_DOCUMENT.pdf).
 
+### Individual Chapters
 If you chose individidual chapters here is the list (are you sure you do not prefer the [FULL DOCUMENT](https://github.com/albertpumarola/Deep-Learning-Study-Notes/blob/master/FULL_DOCUMENT.pdf)?):
 
 1. Data
